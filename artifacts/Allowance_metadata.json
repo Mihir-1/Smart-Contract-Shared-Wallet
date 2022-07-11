@@ -164,11 +164,11 @@
 	},
 	"sources": {
 		"Allowance.sol": {
-			"keccak256": "0xcaa3053bfa968850e691e0b3f4f420ed6ea2ccc6f75fdc9425edeb16ea279c6e",
+			"keccak256": "0xeb7f2e9f35864f0895ccec8c2cda11dc5ee952ffe477fc3fee05cd3ae8495381",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://9409e222652c222699418cfdc55d5b85c06379129681667a7324819fe28dd771",
-				"dweb:/ipfs/Qmb71MXpExoaUM7dsrDjrg8AaCiWRiyu8RSjJfiC18nm2k"
+				"bzz-raw://17340813fc50808a8809710a178c0f6f725cf32dcf65d3a51c88a813ccfd7ceb",
+				"dweb:/ipfs/QmZ5EiKkjKBmBmpBVGafoXmTacdedH1QdLY7wkCJXvHWVZ"
 			]
 		},
 		"https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/access/Ownable.sol": {
